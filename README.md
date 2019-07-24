@@ -10,7 +10,7 @@ Celsys社のペイントソフトウェア「CLIP STUDIO PAINT EX/PRO」のサ�
 ## 使い方
 
 設定ファイルを読み込んでD&Dでお好みに並び替えて出力するだけです。  
-ファイルの位置などの詳しいことは[Pagesで公開しているアプリ](https://suigensoba.github.io/subview/)を参照下さい。
+ファイルの位置などの詳しいことは[Pagesで公開しているアプリ](https://suigensoba.github.io/subviewtool/)を参照下さい。
 
 sql.jsを使用しているので設定ファイルは送信されずにwebブラウザ内でこねこねされます。  
 sqlite3ファイルのまま読み込んで、並び替えをするごとにJavaScriptでSQL文を発行してレコードを入れ替えているだけです。  
