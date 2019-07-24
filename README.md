@@ -18,6 +18,6 @@ sql.jsすごい。
 
 ## 使用したライブラリなど
 
-react(babel)  
+react  
 webpack  
 sql.js
